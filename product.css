@@ -1,0 +1,53 @@
+.shadow {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
+.text-danger {
+    color: #984807 !important;
+}
+.border-danger {
+    border-color: #984807 !important;
+}
+.text-warning {
+    color: #e46c0a !important;
+    
+}
+.text-secondary {
+    color: #61380B !important;
+}
+.p {
+   font-size: 20em; !important;
+}
+.btn-outline-warning {
+    border-color: #984807 !important;
+    color: #984807 !important;
+}
+.google {
+    color: #B40404; !important;
+    font-size: 26px; !important;
+    padding-right: 100px; !important;
+}
+.facebook{
+    color: #0B3861; !important;
+    font-size: 26px; !important;
+    padding-right: 100px; !important;
+}
+.twitter {
+    color: #FF4000; !important;
+    font-size: 26px; !important;
+    padding-right: 100px; !important;
+}
+.form-control {
+    height: 100%; !important;
+}
+.jumbotron {
+    background-image: url(images/header.jpg); !important;
+}
+.btn-link {
+    background: url(images/collapse.png); !important;
+    height: 20px;
+    width: 70px;
+    border: 0px;
+}
+.ul {
+    margin-left: 0px !important;
+}
